@@ -33,4 +33,4 @@ const marcBio = new Programmer("Marc", "Spain", "Web Programming");
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>  
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marc-ms/marc-ms/blob/output/github-contribution-grid-snake.svg)
